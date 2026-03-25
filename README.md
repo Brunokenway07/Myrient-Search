@@ -3,7 +3,7 @@ This is a hopefully complete collection of all the links for every file that is 
 
 ## Usage:
 
-The data was obtained by using [RaimuV's myrient_scraper](https://github.com/RaimuV/myrient_scrape) and it is collected on the file *myrient_links.json*.
+The data was obtained by using [RaimuV's myrient_scraper](https://github.com/RaimuV/myrient_scraper) and it is collected on the file *myrient_links.json*.
 
 Simply make sure that you have both files on the same folder, run the file *search_ui.py* and open http://127.0.0.1:5000 to start browsing:
 
